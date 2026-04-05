@@ -50,15 +50,15 @@ O MobileTicketsIonic é um aplicativo desenvolvido com Ionic + Angular para simu
 
 ### Emitir Senha
 
-![Emitir Senha](./images/img1.png)
+![Emitir Senha](./image/img1.png)
 
 ### Centro de Atendimento
 
-![Atendimento](./images/img2.png)
+![Atendimento](./image/img2.png)
 
 ### Histórico
 
-![Histórico](./images/img3.png)
+![Histórico](./image/img3.png)
 
 # 🚀 Como executar
 
